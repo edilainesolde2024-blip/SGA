@@ -721,4 +721,4 @@ Essa regra permitirá que os relatórios e indicadores do sistema trabalhem com 
 **Documento:** Escopo inicial — Versão 01
 **Data de referência:** 08/09/2026
 **Projeto:** SGA — Sistema de Gestão de Ambientes
-**Grupo:** TechFlow
+**Grupo:** TechFlow 📥
